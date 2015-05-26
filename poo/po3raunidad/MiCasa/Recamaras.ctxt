@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=moviliario
+comment0.target=Recamaras(int)
+comment1.params=
+comment1.target=int\ getMoviliario()
+comment2.params=nuevaMoviliario
+comment2.target=void\ setmoviliario(int)
+comment3.params=closets
+comment3.target=Recamaras(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getClosets()
+comment5.params=nuevaClosets
+comment5.target=void\ setclosets(java.lang.String)
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=avion
+comment0.target=Transformaciones(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getAvion()
+comment2.params=nuevoAvion
+comment2.target=void\ setAvion(java.lang.String)
+numComments=3

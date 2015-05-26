@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getFechaInsc()
+comment1.params=fechainsc
+comment1.target=void\ setFechaInsc(int)
+comment2.params=
+comment2.target=int\ getFechaEx()
+comment3.params=fechaEx
+comment3.target=void\ setFechaEx(int)
+comment4.params=
+comment4.target=java.lang.String\ getAula()
+comment5.params=aula
+comment5.target=void\ setAula(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getHora()
+comment7.params=hora
+comment7.target=void\ setHora(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getMaestro()
+comment9.params=maestro
+comment9.target=void\ setMaestro(java.lang.String)
+numComments=10

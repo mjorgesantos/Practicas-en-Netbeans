@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getCvecarrera()
+comment1.params=cvecarrera
+comment1.target=void\ setCvecarrera(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombcarrera()
+comment3.params=nombcarrera
+comment3.target=void\ setNombcarrera(java.lang.String)
+numComments=4

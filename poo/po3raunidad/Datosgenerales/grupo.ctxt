@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=grupo
+comment0.target=grupo(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getGrupo()
+comment2.params=nuevogrupo
+comment2.target=void\ setGrupo(java.lang.String)
+numComments=3

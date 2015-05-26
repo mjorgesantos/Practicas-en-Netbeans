@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=muebles
+comment0.target=MiniSalaDe(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getMuebles()
+comment2.params=nuevaMuebles
+comment2.target=void\ setmuebles(java.lang.String)
+numComments=3

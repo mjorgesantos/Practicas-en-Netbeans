@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=utencilios
+comment0.target=MiniCocina(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getMiniCocina()
+comment2.params=nuevaMiniCocina
+comment2.target=void\ setMiniCocina(java.lang.String)
+numComments=3

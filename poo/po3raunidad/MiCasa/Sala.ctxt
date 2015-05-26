@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cantina
+comment0.target=Sala(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getCantina()
+comment2.params=nuevaCantina
+comment2.target=void\ setCantina(java.lang.String)
+comment3.params=muebles
+comment3.target=Sala(int)
+comment4.params=
+comment4.target=int\ getMuebles()
+comment5.params=nuevaMuebles
+comment5.target=void\ setMuebles(int)
+numComments=6

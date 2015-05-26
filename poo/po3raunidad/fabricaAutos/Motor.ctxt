@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=cilindros
+comment0.target=Motor(int)
+comment1.params=
+comment1.target=int\ getCilindros()
+comment2.params=nuevoCilindros
+comment2.target=void\ setCilingros(int)
+numComments=3

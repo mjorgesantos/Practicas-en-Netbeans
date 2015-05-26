@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=colorRojo\ colorVerde\ colorAmarillo
+comment0.target=Aplicacion(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getColorRojo()
+comment2.params=nuevocolorRojo
+comment2.target=void\ setColorRojo(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getColorVerde()
+comment4.params=nuevocolorVerde
+comment4.target=void\ setColorVerde(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getColorAmarillo()
+comment6.params=nuevocolorAmarillo
+comment6.target=void\ setColorAmarillo(java.lang.String)
+comment7.params=
+comment7.target=void\ semaforo()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

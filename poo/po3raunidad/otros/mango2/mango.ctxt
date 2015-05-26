@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=color\ estado\ peso
+comment0.target=mango(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ probar()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=utencilios
+comment0.target=cocina(int)
+comment1.params=
+comment1.target=int\ getUtencilios()
+comment2.params=nuevaCocina
+comment2.target=void\ setcocina(int)
+comment3.params=cosinaintegral
+comment3.target=cocina(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCosinaintegral()
+comment5.params=nuevaCosinaintegral
+comment5.target=void\ setcocina(java.lang.String)
+numComments=6

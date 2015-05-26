@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=tama\u00F1ometros
+comment0.target=Patio(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getTama\u00F1ometros()
+comment2.params=nuevaTama\u00F1ometros
+comment2.target=void\ setCompleto(java.lang.String)
+comment3.params=fuenteenmedio
+comment3.target=Patio(int)
+comment4.params=
+comment4.target=int\ getFuenteenmedio()
+comment5.params=nuevaFuenteenmedio
+comment5.target=void\ setSencillo(int)
+numComments=6

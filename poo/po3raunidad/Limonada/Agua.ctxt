@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=aguaLitros\ cantLimones\ cantAzucar
+comment0.target=Agua(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ mostrar()
+numComments=2

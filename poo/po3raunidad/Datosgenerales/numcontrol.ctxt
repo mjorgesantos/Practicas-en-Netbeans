@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numcontrol
+comment0.target=numcontrol(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getNumcontrol()
+comment2.params=nuevonumcontrol
+comment2.target=void\ setNumcontrol(java.lang.String)
+numComments=3

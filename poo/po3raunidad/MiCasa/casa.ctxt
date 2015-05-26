@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=comoescasa\ unJardincito\ unaCocinita\ unaSalita\ unPatiecito\ unBa\u00F1ito\ unasRecamarita
+comment0.target=casa(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ mostrar()
+numComments=2

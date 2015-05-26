@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=completo
+comment0.target=miniBanio(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getCompleto()
+comment2.params=nuevaCompleto
+comment2.target=void\ setCompleto(java.lang.String)
+comment3.params=sencillo
+comment3.target=miniBanio(int)
+comment4.params=
+comment4.target=int\ getSencillo()
+comment5.params=nuevaSencillo
+comment5.target=void\ setSencillo(int)
+numComments=6

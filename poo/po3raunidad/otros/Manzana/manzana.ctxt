@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=tipo\ pero
+comment0.target=manzana(java.lang.String,\ int)
+comment1.params=tipo
+comment1.target=manzana(java.lang.String)
+comment2.params=
+comment2.target=void\ madurar()
+comment3.params=
+comment3.target=void\ comer()
+numComments=4

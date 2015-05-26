@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=valor1\ valor2\ operacion
+comment0.target=Operacion(float,\ float,\ java.lang.String)
+comment1.params=nuevoValor1
+comment1.target=void\ setValor1(float)
+comment2.params=
+comment2.target=float\ getValor1()
+comment3.params=nuevoValor2
+comment3.target=void\ setValor2(float)
+comment4.params=
+comment4.target=float\ getValor2()
+comment5.params=nuevaOperacion
+comment5.target=void\ setOperacion(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getOperacion()
+comment7.params=
+comment7.target=float\ suma()
+comment8.params=
+comment8.target=float\ resta()
+numComments=9

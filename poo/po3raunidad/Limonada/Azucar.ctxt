@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=cantidad
+comment0.target=Azucar(int)
+comment1.params=
+comment1.target=int\ getCantidad()
+comment2.params=nuevaCantidad
+comment2.target=void\ setCantidad(int)
+numComments=3

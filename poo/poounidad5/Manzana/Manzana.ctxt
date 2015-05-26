@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=peso\ Tigre\ Roja\ Amarilla\ Verde
+comment0.target=Manzana(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ mostrar()
+numComments=2

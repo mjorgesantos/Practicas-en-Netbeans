@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=moviliario
+comment0.target=MiniRecamaraDe(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getMoviliario()
+comment2.params=nuevaMoviliario
+comment2.target=void\ setmoviliario(java.lang.String)
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=kilometros
+comment0.target=velocidad(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getKilometros()
+comment2.params=nuevoKilometros
+comment2.target=void\ setkilometros(java.lang.String)
+numComments=3
